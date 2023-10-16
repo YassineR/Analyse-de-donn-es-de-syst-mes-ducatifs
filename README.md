@@ -14,5 +14,6 @@ This repository contains the analysis of education data from the World Bank for 
     - `presentation.pdf`: Python script version of the Jupyter notebook for data analysis.
 
 ## Compétence et evaluation 
-![Eval](evaluation.png)
+![Eval](Evaluation.png)
+
 _WORK IN PROGRESS_

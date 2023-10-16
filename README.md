@@ -12,5 +12,6 @@ This repository contains the analysis of education data from the World Bank for 
 
 3. **PDF**: Presentation i used for my project sentence.
     - `presentation.pdf`: Python script version of the Jupyter notebook for data analysis.
-  
+
+## Compétence et evaluation 
 _WORK IN PROGRESS_

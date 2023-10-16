@@ -10,8 +10,8 @@ This repository contains the analysis of education data from the World Bank for 
 2. **Data**: Folder containing the dataset used for the analysis.
     - `Edstats_csv/EdStatsData.csv`: Raw data from the World Bank Education Statistics. Data is available at this adress : https://datacatalog.worldbank.org/dataset/education-statistics
 
-3. **PDF**: Presentation i used for my project sentence.
-    - `presentation.pdf`: Python script version of the Jupyter notebook for data analysis.
+3. **PDF**: Presentation i used for my project defense.
+    - `presentation.pdf`: Slides providing an overview of my project, including the data analysis process and key findings presented during the defense.
 
 ## Compétence et evaluation 
 ![Eval](Evaluation.png)

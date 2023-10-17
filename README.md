@@ -13,7 +13,7 @@ This repository contains the analysis of education data from the World Bank for 
 3. **PDF**: Presentation i used for my project defense.
     - `presentation.pdf`: Slides providing an overview of my project, including the data analysis process and key findings presented during the defense.
 
-## Compétence et evaluation 
+## Skills and assessment 
 ![Eval](Evaluation.png)
 
 _WORK IN PROGRESS_
